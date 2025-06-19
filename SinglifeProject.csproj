@@ -67,6 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Singlife.mdf" />
+    <Content Include="App_Data\Singlife_log.ldf">
+      <DependentUpon>Singlife.mdf</DependentUpon>
+    </Content>
     <Content Include="Cart.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Claiming.aspx" />
