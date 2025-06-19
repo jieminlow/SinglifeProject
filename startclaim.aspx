@@ -7,7 +7,7 @@
         <div class="row">
             <!-- Left Side: Form -->
             <div class="col-lg-8 mb-4">
-                <h3 class="mb-4">Personal Accident Claim</h3>
+                <h3 class="mb-4">Personal Accident Claimssssssss</h3>
 
                 <!-- Incident Details -->
                 <div class="mb-4">
